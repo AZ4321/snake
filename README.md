@@ -1,0 +1,2 @@
+# snake
+Practice with JavaScript
